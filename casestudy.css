@@ -1,0 +1,40 @@
+html{
+    background-image: url('phan-mem-quan-ly-nha-su-nganh-giao-duc.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+body{
+    padding:0px;
+    margin:0px;
+}
+    div.form-student{
+        width: 600px;
+        border:1px solid;
+        padding:5px;
+        float:left;
+        background-color: whitesmoke;
+        border-collapse: collapse;
+        margin: 25px;
+        
+    }
+    div.form-student label{
+        width:150px;
+        float:left;
+    }
+    div.form-student input{
+        margin-bottom: 10px;
+    }
+    .error{
+        color: brown;
+    }
+   div.table-student{
+    width: 600px;
+        border:1px solid;
+        padding:5px;
+        float:left;
+        border-collapse: collapse;
+        margin: 25px;
+        background-color: white;
+   }
